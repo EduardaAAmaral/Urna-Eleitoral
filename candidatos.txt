@@ -1,0 +1,5 @@
+Presidente;Lulinha;13;PT;13.gif
+Presidente;Ana Maria;45;PDG;45.gif
+Presidente;Menino Ney;22;PLDB;22.gif
+Deputado Federal;Eduardo leite;60;PLDS;60.gif
+Deputado Federal;Philippe Coutinho;11;PSB;11.gif

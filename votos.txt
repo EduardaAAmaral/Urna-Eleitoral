@@ -1,0 +1,9 @@
+13;7
+45;2
+22;1
+60;7
+11;1
+branco de deputado;2
+nulo de deputado;5
+branco de presidente;3
+nulo de presidente;3
